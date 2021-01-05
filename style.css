@@ -113,4 +113,21 @@ a.header-btn {
 }
 
 
+/* -------------------------------------- */
+
+.about-skill {
+    padding: 100px 0;
+}
+
+.skill-item {
+    text-align: center;
+}
+
+.skill-item img {
+    width: 60px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+
 /* ====================================== */
